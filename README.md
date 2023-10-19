@@ -1,6 +1,6 @@
 🤖 Robotics Instructor | 🧠 AI/ML Engineer | 🌐 IoT Enthusiast | ⚡ Electronics Enthusiast
 
-👋 Hey there! I'm [Your Name], a passionate robotics enthusiast with a knack for creating intelligent, connected systems. Here's a bit about me:
+👋 Hey there! I'm FREDERICK , a passionate robotics enthusiast with a knack for creating intelligent, connected systems. Here's a bit about me:
 
 🤖 Robotics Instructor:
 - 📚 Educator: Sharing my knowledge in robotics with a focus on hands-on learning.
