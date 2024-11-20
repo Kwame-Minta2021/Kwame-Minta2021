@@ -1,15 +1,11 @@
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Frederick K. Minta (NEWTON)</h1>
 <h3 align="center">A passionate frontend developer from wakanda</h3>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="[https://i.imgur.com/Jv3C6Ow.png](https://imgur.com/gallery/robot-love-555hb3D)" alt="Banner" width="100%">
-</p>
-
 <!-- GIF Image -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
-</p>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kwame-minta2021&label=Profile%20views&color=0e75b6&style=flat" alt="kwame-minta2021" /> 
