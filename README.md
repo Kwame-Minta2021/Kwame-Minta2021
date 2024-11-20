@@ -1,6 +1,6 @@
 https://dribbble.com/shots/2241604-Happy-Programmers-Day
 <h1 align="center">Hi 👋, I'm Frederick K. Minta (NEWTON)</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">A passionate frontend developer from WAKANDA</h3>
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwame-minta2021&label=Profile%20views&color=0e75b6&style=flat" alt="kwame-minta2021" /> </p>
