@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frederick K. Minta (NEWTON)</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">A passionate frontend developer from wakanda</h3>
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/Jv3C6Ow.png" alt="Banner" width="100%">
+  <img src="[https://i.imgur.com/Jv3C6Ow.png](https://imgur.com/gallery/robot-love-555hb3D)" alt="Banner" width="100%">
 </p>
 
 <!-- GIF Image -->
