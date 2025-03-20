@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <h1 align="center">Hi 👋, I'm Frederick K. Minta (NEWTON)</h1>
-<h3 align="center">A passionate frontend developer from Wakanda</h3>
+<h3 align="center">A passionate  developer from Wakanda</h3>
 
 - 🔭 I’m currently working on a **Machine Learning Project**
 - 🌱 I’m currently learning **Deep Learning, LLM, NLP, Next.js**
